@@ -1,4 +1,5 @@
 # Social-Media-with-Django
+[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/740708103/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/740708103/week.md) <br>
 A Social Media platform built on the Django Web Framework.
 # 💥Features Included💥
 * SignUp & Login functionality.
