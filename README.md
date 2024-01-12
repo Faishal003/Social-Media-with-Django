@@ -1,5 +1,5 @@
 # Social-Media-with-Django
-[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/740708103/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/740708103/week.md) <br>
+[![Image of my-views-counter](https://github.com/Faishal003/my-views-counter/blob/master/svg/740708103/badge.svg)](https://github.com/Faishal003/my-views-counter/blob/master/readme/740708103/week.md) ![Static Badge](https://img.shields.io/badge/python-3.10-blue?link=https%3A%2F%2Fwww.python.org%2Fdownloads%2Frelease%2Fpython-3100%2F) ![Static Badge](https://img.shields.io/badge/django-5.0-orange)<br>
 A Social Media platform built on the Django Web Framework.
 # 💥Features Included💥
 * SignUp & Login functionality.
